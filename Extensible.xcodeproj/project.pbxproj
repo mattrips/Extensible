@@ -155,6 +155,7 @@
 		9B83E088204B8CAA00DEDD73 /* EXStringAttributesiOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EXStringAttributesiOSTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B83E08D204B8CAA00DEDD73 /* EXStringAttributesiOSTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EXStringAttributesiOSTests.swift; sourceTree = "<group>"; };
 		9B83E08F204B8CAA00DEDD73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9BC20A6C204BC04500B1A93B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -254,6 +255,7 @@
 		9B83DF83204B78E700DEDD73 = {
 			isa = PBXGroup;
 			children = (
+				9BC20A6C204BC04500B1A93B /* README.md */,
 				9B83DF8A204B791000DEDD73 /* Sources */,
 				9B83E0B5204B8EE100DEDD73 /* Targets */,
 				9B83E026204B8BAA00DEDD73 /* Tests */,
